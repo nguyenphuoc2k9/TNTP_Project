@@ -1,0 +1,1 @@
+web gunicorn TNTP.wsgi:application --log-file -
